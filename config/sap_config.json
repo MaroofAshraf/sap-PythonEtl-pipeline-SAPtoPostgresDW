@@ -1,0 +1,9 @@
+{
+    "user": "your_sap_user",
+    "passwd": "your_sap_password",
+    "ashost": "sap_server_host",
+    "sysnr": "system_number",
+    "client": "client_number",
+    "lang": "EN"
+  }
+  

@@ -1,0 +1,6 @@
+pyrfc
+pandas
+sqlalchemy
+psycopg2-binary
+airflow
+pytest
